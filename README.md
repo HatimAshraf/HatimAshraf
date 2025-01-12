@@ -3,14 +3,11 @@
 
 🚀 Passionate about building clean, scalable, and maintainable software solutions that deliver real-world impact. With over 5 years of experience spanning **product design** and **frontend development**, I'm now diving deeper into **backend development** to master the full product lifecycle.  
 
----
 
 ## ✍️ About Me  
 - 💼 Computer Science graduate with experience in **Product Design** and **Frontend Development**.  
 - 📖 Currently researching and working on generative AI applications.  
 - 🌍 Based in Germany, with a love for **traveling** and **reading**.  
-
----
 
 ## 👨‍💻 What I Do  
 - **Full-Stack Development**: Creating seamless web applications using **React**, **Next.js**, **Node.js**, and **MongoDB**.  
@@ -18,43 +15,7 @@
 - **Product Design**: Designing intuitive user interfaces with a strong focus on user experience.  
 - **APIs & Data**: Building and managing REST and GraphQL APIs with a focus on scalability and performance.  
 
----
-
 ## 🛠 Tech Stack  
-- **Frontend**: React, Next.js, Redux, JavaScript  
-- **Backend**: Node.js, Express.js, Django, Flask  
-- **Databases**: MongoDB, PostgreSQL, Firebase, MySQL  
-- **DevOps**: Docker, GitHub Actions, CI/CD  
-- **Other Tools**: Redis, RabbitMQ, REST APIs, GraphQL  
-
----
-
-
-## 📫 Get in Touch  
-- 🌐 [Behance](https://www.behance.net/hatimashraf)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hatim-ashraf/)   
-- 📧 hatim.ashraf91@gmail.com  
-
-Feel free to fork my repositories or drop a ⭐️ if you like my work! 😊  
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -85,15 +46,19 @@ Feel free to fork my repositories or drop a ⭐️ if you like my work! 😊
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
+## 📫 Get in Touch  
 
-<div align="left">
-  <a href="www.linkedin.com/hatim-ashraf" target="_blank">
+ <div align="left">
+  <a href="https://www.linkedin.com/in/hatim-ashraf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+<a href="https://www.behance.net/hatimashraf" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+</a>
+<a href="hatim.ashraf91@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
-###
+
+Feel free to fork my repositories or drop a ⭐️ if you like my work! 😊  
