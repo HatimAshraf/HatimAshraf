@@ -29,25 +29,11 @@
 
 ---
 
-## 📚 Current Projects  
-1. **[SmartQuiz](#)**: A web app that generates AI-based quizzes from uploaded documents.  
-2. **Survey Tool**: A Next.js and MongoDB-based tool for conducting surveys and collecting results.  
-3. **Music Theory Website**: Developing a categorized, course-based platform for music enthusiasts.  
-
----
-
-## 🌟 What I'm Learning  
-- Mastering **REST APIs** with Node.js, Express.js, MongoDB, and Mongoose.  
-- Exploring **Generative AI's Impact on Human Evolution**, focusing on communication trends and future possibilities.  
-
----
-
 
 ## 📫 Get in Touch  
-- 🌐 [Portfolio](#)  
-- 🔗 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📧 hatim.ashraf@example.com  
+- 🌐 [Behance](https://www.behance.net/hatimashraf)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hatim-ashraf/)   
+- 📧 hatim.ashraf91@gmail.com  
 
 Feel free to fork my repositories or drop a ⭐️ if you like my work! 😊  
 
